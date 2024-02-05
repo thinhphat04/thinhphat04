@@ -1,16 +1,14 @@
-### Hi there 👋
+# Ngô Thịnh Phát (thinhphat04)
 
-<!--
-**thinhphat04/thinhphat04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Ngô Thịnh Phát, a passionate developer.
 
-Here are some ideas to get you started:
+## GitHub Stats
+![GitHub followers](https://img.shields.io/github/followers/thinhphat04?style=social)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+- [Project 1](https://github.com/thinhphat04/Virus_PJ_SEM01): Virus_PJ_SEM01
+- [Project 2](https://github.com/thinhphat04/EasyFly_PJ_SEM02): EasyFly_PJ_SEM02
+
+## Blog
+Check out my latest [blog post](link-to-blog) for more insights.
+
