@@ -8,6 +8,7 @@ Hello! I'm Ngô Thịnh Phát, a passionate developer.
 ## My Projects
 - [Project 1](https://github.com/thinhphat04/Virus_PJ_SEM01): Virus_PJ_SEM01
 - [Project 2](https://github.com/thinhphat04/EasyFly_PJ_SEM02): EasyFly_PJ_SEM02
+- [Project 3](https://github.com/thinhphat04/Clinic_Management): ClinicOnline_PJ_SEM03
 
 ## Blog
 Check out my latest [blog post](link-to-blog) for more insights.
