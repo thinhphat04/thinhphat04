@@ -4,8 +4,8 @@ Hello! I'm Ngô Thịnh Phát, a passionate developer.
  ☕ I like having a cup of coffee early in **the morning to work**
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2><br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,spring,javascript,mongodb,java,mysql,dotnet,sqlite,sqlserver" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git," />
+    <img src="https://skillicons.dev/icons?i=nodejs,spring,javascript,mongodb,java,mysql,dotnet,sqlite," /><br>
 </div>
 <!-- ## GitHub Stats
 ![GitHub followers](https://img.shields.io/github/followers/thinhphat04?style=social) -->
