@@ -5,7 +5,7 @@ Hello! I'm Ngô Thịnh Phát, a passionate developer.
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2><br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,docker,angular,bash,Azure" />
-    <img src="https://skillicons.dev/icons?i=nodejs,spring,javascript,mongodb,mysql,dotnet,sqlite,java&theme=light" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,spring,javascript,mongodb,mysql,dotnet,flutter,sqlite,java&theme=light" /><br>
 </div>
 <!-- ## GitHub Stats
 ![GitHub followers](https://img.shields.io/github/followers/thinhphat04?style=social) -->
