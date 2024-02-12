@@ -1,6 +1,6 @@
 # Ngô Thịnh Phát (thinhphat04)
 
-Hello! I'm Ngô Thịnh Phát, a passionate developer.
+Hello! I'm Ngô Thịnh Phát, a passionate developer.<br/>
  ☕ I like having a cup of coffee early in **the morning to work**
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2><br/>
 <div align="center">
