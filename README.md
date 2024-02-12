@@ -1,5 +1,7 @@
-# Ngô Thịnh Phát (thinhphat04)
-
+# Ngo Thinh Phat (thinhphat04)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Phat+Ngo;" />
+</h1>
 Hello! I'm Ngô Thịnh Phát, a passionate developer.<br/>
  ☕ I like having a cup of coffee early in **the morning to work**
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2><br/>
