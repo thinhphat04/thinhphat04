@@ -10,7 +10,7 @@ Hello! I'm Ngô Thịnh Phát, a passionate developer.<br/>
     <img src="https://skillicons.dev/icons?i=python,nodejs,spring,javascript,mongodb,mysql,dotnet,flutter,sqlite,java&theme=light" /><br>
 </div>
 <!-- ## GitHub Stats
-<!-- ![GitHub followers](https://img.shields.io/github/followers/thinhphat04?style=social) --> -->
+<!-- ![GitHub followers](https://img.shields.io/github/followers/thinhphat04?style=social) --> 
 
 ## My Projects
 - [Project 1](https://github.com/thinhphat04/Virus_PJ_SEM01): Virus_PJ_SEM01
