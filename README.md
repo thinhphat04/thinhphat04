@@ -5,7 +5,9 @@
 <h1 align="center">
 Hello! I'm Ngô Thịnh Phát, Back-end developer.<br/>
 </h1>
- ☕ I like having a cup of coffee early in **the morning to work**
+<h1 align="center">
+☕ I like having a cup of coffee early in **the morning to work**</h1>
+ 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2><br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,tailwind,git,docker,angular,bash,azure,gradle,c,cs" />
