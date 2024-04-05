@@ -8,8 +8,10 @@ Hello! I'm Ngô Thịnh Phát, Back-end developer.<br/>
  ☕ I like having a cup of coffee early in **the morning to work**
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2><br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,figma,tailwind,git,docker,angular,bash,azure,gradle" />
-    <img src="https://skillicons.dev/icons?i=python,nodejs,spring,javascript,mongodb,mysql,dotnet,flutter,sqlite,java" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,tailwind,git,docker,angular,bash,azure,gradle,c,cs" />
+    <img src="https://skillicons.dev/icons?i=python,nodejs,spring,javascript,mongodb,mysql,dotnet,flutter,sqlite,java,ts,vite,wordpress" /><br>
+        <img src="https://skillicons.dev/icons?i=git,github,rider,idea,postman,gcp" /><br>
+
 </div>
 <!-- ## GitHub Stats
 <!-- ![GitHub followers](https://img.shields.io/github/followers/thinhphat04?style=social) --> 
