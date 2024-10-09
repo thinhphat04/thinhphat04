@@ -13,6 +13,10 @@
 <!-- ![GitHub followers](https://img.shields.io/github/followers/thinhphat04?style=social) --> 
 
 
-## Blog
-Check out my latest [blog post](link-to-blog) for more insights.
+## Social contact with me
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/phat-ngo-t2404/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/phat-ngo-t2404/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20844113/ng%c3%b4-th%e1%bb%8bnh-ph%c3%a1t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20844113/ng%c3%b4-th%e1%bb%8bnh-ph%c3%a1t" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/thinhphat04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/thinhphat04/" height="30" width="40" /></a>
+</p>
+
 
