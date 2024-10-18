@@ -19,4 +19,54 @@
 <a href="https://www.leetcode.com/u/thinhphat04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
 </p>
 
+### Project 1: Vertex (Blog Virus)
+Dự án blog với chủ đề về virus.
 
+<div align="center">
+    <img src="img/Virus/img1.png" alt="Project 1 Vertex" width="350"/>
+    <img src="img/Virus/img2.png" alt="Project 1 Vertex" width="350"/>
+    <img src="img/Virus/img3.png" alt="Project 1 Vertex" width="350"/>
+    <img src="img/Virus/img4.png" alt="Project 1 Vertex" width="350"/>
+</div>
+
+---
+
+### Project 2: EasyFly (Booking Airline)
+Hệ thống đặt vé máy bay trực tuyến.
+
+<div align="center">
+    <img src="img/EasyFly/img1.png" alt="Project 2 EasyFly" width="350"/>
+    <img src="img/EasyFly/img2.png" alt="Project 2 EasyFly" width="350"/>
+    <img src="img/EasyFly/img3.png" alt="Project 2 EasyFly" width="350"/>
+    <img src="img/EasyFly/img4.png" alt="Project 2 EasyFly" width="350"/>
+    <img src="img/EasyFly/img5.png" alt="Project 2 EasyFly" width="350"/>
+</div>
+
+---
+
+### Project 3: Clinic (System Management Clinic)
+Hệ thống quản lý phòng khám.
+
+<div align="center">
+    <img src="img/Clinic/img1.png" alt="Project 3 Clinic" width="350"/>
+    <img src="img/Clinic/img2.png" alt="Project 3 Clinic" width="350"/>
+    <img src="img/Clinic/img3.png" alt="Project 3 Clinic" width="350"/>
+    <img src="img/Clinic/img4.png" alt="Project 3 Clinic" width="350"/>
+    <img src="img/Clinic/img5.png" alt="Project 3 Clinic" width="350"/>
+    <img src="img/Clinic/img6.png" alt="Project 3 Clinic" width="350"/>
+</div>
+
+---
+
+### Project 4: TechShop (Ecommerce Store)
+Nền tảng cửa hàng thương mại điện tử.
+
+<div align="center">
+  <img src="img/TechShop/img7.png" alt="Project 4 TechShop" width="200"/>
+   <img src="img/TechShop/img6.png" alt="Project 4 TechShop" width="200"/>
+    <img src="img/TechShop/img5.png" alt="Project 4 TechShop" width="200"/>
+   
+  
+</div>
+
+---
